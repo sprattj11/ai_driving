@@ -84,5 +84,3 @@ During evaluation, the model showed a strong bias toward extreme classifications
 * CSV logging  
 * Base64 image encoding  
 ---
-  
-## Output Example     image | expected | predicted | correct    img1  | STOP     | STOP      | 1    img2  | SLOW     | GO        | 0
